@@ -1,4 +1,4 @@
-Coded by Alex Burnley
+Coded by Alex Burnley in 2018
 
 To compile the code, 'make' can be used in both the client and server directories. 
 the server can then be run with './server <port number>'. The client can be run with 
